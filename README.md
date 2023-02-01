@@ -6,8 +6,7 @@ I'm 18 years old, I live in Bursa/Turkey.<br></p>
 </div>
 
 <div>
-	<h1 align="center">Contact
-  </h1>
+	<h1 align="center">Contact</h1>
 </div>
 
 <div align="center">
