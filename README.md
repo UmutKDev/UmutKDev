@@ -23,7 +23,7 @@ I'm 18 years old, I live in Bursa/Turkey.<br></p>
     <img alt="JavaScript" align="center" src="https://img.shields.io/badge/-Javascript-edb200?style=for-the-badge&logo=javascript&logoColor=white"/>
     <img alt="React" align="center" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
     <img alt="HTML" align="center" src="https://img.shields.io/badge/-HTML-orange?style=for-the-badge&logo=HTML5&logoColor=white"/>
-    <img alt="NESTJS" align="center" src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white"/>
+    <img alt="NESTJS" align="center" src=https://img.shields.io/badge/NestJS-E0234E.svg?style=for-the-badge&logo=NestJS&logoColor=white"/>
 <br><br>
     <img alt="MongoDB" align="center" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
     <img alt="Bootstrap" align="center" src="https://img.shields.io/badge/-Bootstrap-CC6699?style=for-the-badge&logo=bootstrap&logoColor=white"/>
