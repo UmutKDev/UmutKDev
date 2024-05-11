@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Umut Kızıloğlu</h1>
 <p align="center" style="text-align: center; font-size: 20px;">
-I'm 18 years old, I live in Bursa/Turkey.<br></p>
+I'm 20 years old, I live in Bursa/Turkey.<br></p>
 <div align="center">
 	<img src="https://lanyard.cnrad.dev/api/312962543591096322">
 </div>
